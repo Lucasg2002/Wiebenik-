@@ -1,0 +1,38 @@
+body  {
+   
+    background-image: url(plaatje.jpg);
+}
+
+
+		
+ul {
+    list-style-type: none;
+    margin: -100;
+    padding: 100;
+    overflow: hidden;
+    background-color: black
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 100px 160px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+	
+
